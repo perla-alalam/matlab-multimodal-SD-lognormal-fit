@@ -99,9 +99,9 @@ The default configuration contains four modes:
 
 | Mode | Fitting interval (µm) |
 |---|---|
-| Ultrafine | 0.01–0.04 |
-| Fine | 0.03–0.55 |
-| Coarse 1 | 0.70–2.00 |
+| Ultrafine | 0.01–0.05 |
+| Fine | 0.05–0.50 |
+| Coarse 1 | 0.50–2.00 |
 | Coarse 2 | 2.00–20.00 |
 
 These intervals are configurable and should be adapted to the experimental particle size distribution.
