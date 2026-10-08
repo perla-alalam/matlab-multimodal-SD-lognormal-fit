@@ -2,7 +2,7 @@
 
 A MATLAB tool for fitting multimodal aerosol particle size distributions (PSDs) using log-normal functions.
 
-The project estimates modal particle concentrations, geometric mean diameters, and geometric standard deviations. It also reconstructs the combined particle size distribution, evaluates fitting quality, and exports the results for further analysis.
+The algorithm estimates modal number of concentrations of particles, geometric mean diameters, and geometric standard deviations. It also reconstructs the combined particle size distribution, evaluates fitting quality, and exports the results for further analysis.
 
 ## Features
 
