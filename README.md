@@ -1,5 +1,4 @@
-# matlab-multimodal-SD-lognormal-fit
-# Multimodal Log-Normal Fitting of Particle Size Distributions
+# Matlab Multimodal Log-Normal Fitting of Particle Size Distributions
 
 A MATLAB tool for fitting multimodal aerosol particle size distributions (PSDs) using log-normal functions.
 
